@@ -1,0 +1,68 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Jun 2026 23:55:24 at https://www.clubnatacionribarroja.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.clubnatacionribarroja.com/ -O1 "C:\Users\asoriano\wp-cloner\ClubNatacionRibarroja\ClubNatacionRibarroja" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:56:38	Warning: 	Moved Permanently for www.clubnatacionribarroja.com/robots.txt
+23:56:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.clubnatacionribarroja.com/robots.txt and https://www.clubnatacionribarroja.com/robots.txt
+23:56:38	Warning: 	Warning moved treated for www.clubnatacionribarroja.com/robots.txt (real one is https://www.clubnatacionribarroja.com/robots.txt)
+23:56:38	Warning: 	Moved Permanently for www.clubnatacionribarroja.com/el-club/
+23:56:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.clubnatacionribarroja.com/el-club/ and https://www.clubnatacionribarroja.com/el-club/
+23:56:38	Warning: 	File has moved from www.clubnatacionribarroja.com/el-club/ to https://www.clubnatacionribarroja.com/el-club/
+23:56:38	Warning: 	Moved Permanently for www.clubnatacionribarroja.com/politica-de-cookies/
+23:56:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.clubnatacionribarroja.com/politica-de-cookies/ and https://www.clubnatacionribarroja.com/politica-de-cookies/
+23:56:38	Warning: 	File has moved from www.clubnatacionribarroja.com/politica-de-cookies/ to https://www.clubnatacionribarroja.com/politica-de-cookies/
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/plugins/svg-vector-icon-plugin/admin/images/download-icon-small.png (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/images/bullate.png (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/images/search_btn.png (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/css/fonts/flexslider-icon.eot (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/css/fonts/flexslider-icon.eot? (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/css/fonts/flexslider-icon.woff (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/css/fonts/flexslider-icon.ttf (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/themes/busiprof/free/css/fonts/flexslider-icon.svg (from https://www.clubnatacionribarroja.com/wp-content/litespeed/css/f1d745f86b0bd5610aced9e2fee2df78.css?ver=c19d0)
+23:56:41	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=97
+23:56:41	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=97 to https://www.clubnatacionribarroja.com/quienes-somos/
+23:56:41	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=119
+23:56:41	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=119 to https://www.clubnatacionribarroja.com/planificacion-anual-del-club/
+23:56:41	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=121
+23:56:41	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=121 to https://www.clubnatacionribarroja.com/objetivos-generales/
+23:56:41	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=125
+23:56:41	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=125 to https://www.clubnatacionribarroja.com/estructura-del-club/
+23:56:44	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=146
+23:56:44	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=146 to https://www.clubnatacionribarroja.com/pre-benjamines/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=167
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=167 to https://www.clubnatacionribarroja.com/benjamines-y-alevines/
+23:57:10	Error: 	"Bad Request" (400) at link https://www.clubnatacionribarroja.com/wp-admin/admin-ajax.php (from https://www.clubnatacionribarroja.com/benjamines-y-alevines/)
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=171
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=171 to https://www.clubnatacionribarroja.com/infantiles-y-juniors/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=176
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=176 to https://www.clubnatacionribarroja.com/master/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=184
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=184 to https://www.clubnatacionribarroja.com/interes-social/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=186
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=186 to https://www.clubnatacionribarroja.com/eventos-organizados-por-el-club/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=197
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=197 to https://www.clubnatacionribarroja.com/socios/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=326
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=326 to https://www.clubnatacionribarroja.com/normativa-club/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=268
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=268 to https://www.clubnatacionribarroja.com/tarifas/
+23:57:10	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=281
+23:57:10	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=281 to https://www.clubnatacionribarroja.com/horario-entrenamientos/
+23:57:12	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=112
+23:57:12	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=112 to https://www.clubnatacionribarroja.com/contacto/
+23:57:12	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=8190
+23:57:12	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=8190 to https://www.clubnatacionribarroja.com/quattrocento-verano-2024/
+23:57:12	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=331
+23:57:12	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=331 to https://www.clubnatacionribarroja.com/aviso-legal/
+23:57:12	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=673
+23:57:12	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=673 to https://www.clubnatacionribarroja.com/politica-de-privacidad/
+23:57:12	Warning: 	Moved Permanently for https://www.clubnatacionribarroja.com/?p=174
+23:57:12	Warning: 	File has moved from https://www.clubnatacionribarroja.com/?p=174 to https://www.clubnatacionribarroja.com/absoluto/
+23:57:12	Error: 	"Not Found" (404) at link https://www.clubnatacionribarroja.com/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://www.clubnatacionribarroja.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=1.9.7.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 346 links scanned, 313 files written (17602500 bytes overall) [14760665 bytes received at 136672 bytes/sec], 4401604 bytes transferred using HTTP compression in 91 files, ratio 22%, 26.6 requests per connection
+(10 errors, 47 warnings, 0 messages)
